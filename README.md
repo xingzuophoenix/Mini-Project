@@ -9,6 +9,22 @@ Flutter App for Login, Document Upload and Dashboard
   https://xineohpouzgnix-8274510.on.drv.tw/miniproject/upl.html
 
 
+## Login Page
+[![Login Page](./Login%20Page%20-%20Google%20Chrome%2012_8_2024%203_03_23%20AM.png)](https://your-login-page-link.com)
+
+## Upload Page
+[![Upload Page](./uplpage.png)](https://your-upload-page-link.com)
+
+## Dashboard 1
+[![Dashboard 1](./dashboard1.png)](https://your-upload-page-link.com)
+
+## Dashboard 2
+[![Dashboard 2](./dashboard2.png)](https://your-upload-page-link.com)
+
+
+
+
+
 ## **What This App Does**
 
 This Flutter app allows users to log in, upload documents like profile pictures, driving licenses, certificates, and passports, and view a simple dashboard with posts and stories. It uses **BLoC** for managing the app’s data and keeping everything organized.
