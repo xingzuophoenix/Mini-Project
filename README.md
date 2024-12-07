@@ -8,14 +8,6 @@ Flutter App for Login, Document Upload and Dashboard
   https://xineohpouzgnix-8274510.on.drv.tw/miniproject/dashboard.html
   https://xineohpouzgnix-8274510.on.drv.tw/miniproject/upl.html
 
-## Login Page
-
-https://your-link-here.com
-
-## Upload Page
-
-https://your-link-here.com
-
 
 ## **What This App Does**
 
