@@ -35,16 +35,9 @@ This Flutter app allows users to log in, upload documents like profile pictures,
 
 ## **How the Code is Organized**
 
-lib/
-├── blocs/                   # Contains logic for different screens
-│   ├── login/               # Handles login screen logic
-│   ├── upload/              # Handles upload screen logic
-├── models/                  # Defines user data structure
-├── repository/              # Handles API requests and data
-├── screens/                 # Contains screen designs like Login, Upload, Dashboard
-├── widgets/                 # Reusable UI parts like buttons, stories, posts
-├── main.dart                # Entry point to run the app
-└── utils/                   # Contains useful functions like validation
+
+![Directory Structure](./images/readme.jpg)
+
 
 
 ---
