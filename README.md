@@ -8,19 +8,13 @@ Flutter App for Login, Document Upload and Dashboard
   https://xineohpouzgnix-8274510.on.drv.tw/miniproject/dashboard.html
   https://xineohpouzgnix-8274510.on.drv.tw/miniproject/upl.html
 
-  # Project Screenshots
+![Login Page](./images/Login_Page_Google_Chrome.png)
 
-## Login Page
-[![Login Page](./images/Login_Page_Google_Chrome.png)](https://example.com/login-page)
+![Upload Page](./images/uplpage.png)
 
-## Upload Page
-[![Upload Page](./images/uplpage.png)](https://example.com/upload-page)
+![Dashboard 1](./images/dashboard1.png)
 
-## Dashboard 1
-[![Dashboard 1](./images/dashboard1.png)](https://example.com/dashboard1)
-
-## Dashboard 2
-[![Dashboard 2](./images/dashboard2.png)](https://example.com/dashboard2)
+![Dashboard 2](./images/dashboard2.png)
 
 
 
