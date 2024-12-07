@@ -35,9 +35,7 @@ This Flutter app allows users to log in, upload documents like profile pictures,
 
 ## **How the Code is Organized**
 
- 
-./readme.jpg
-
+![Directory Structure](./readme.jpg)
 
 ---
 
