@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>upload information</title>
+  <link rel="stylesheet" href="css/upl.css">
+  <link rel="icon" href="img/logo.jpg" type="image/x-icon">
+</head>
+<body>
+  <div class="container">
+    <div class="login-form">
+        <h1>Upload Documents</h1>
+        <br><br>
+      <form action="#">
+        <input type="email" placeholder="Profile Picture" required>
+        <input type="password" placeholder="Driving License" required>
+        <input type="email" placeholder="Certificate" required>
+        <input type="password" placeholder="Passport" required>
+        <br><br><br><br>
+        <button type="submit">Done</button>
+        <a href="dashboard.html">Skip Now</a>
+    </div>
+  </div>
+  <div class="shape-top-left"></div>
+  <div class="shape-bottom-right"></div>
+   <!-- Dart File -->
+   <script type="application/dart" src="Flutter/upl.dart"></script>
+   <script src="packages/browser/dart.js"></script>
+   <script>
+    document.getElementById('runScript').addEventListener('click', () => {
+      fetch('/run-script', { method: 'POST' }) // Make a request to the backend
+        .then(response => response.text())
+        .then(data => alert(data))
+        .catch(error => alert('Error: ' + error));
+    });
+  </script>
+</body>
+</html>
